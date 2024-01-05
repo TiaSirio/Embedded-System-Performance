@@ -24,4 +24,4 @@ The company aims to determine the optimal number of projects, denoted as N, that
 
 ## Author 👨‍💻
 
-- Mattia Siriani
+- [TiaSirio](https://www.github.com/TiaSirio)
